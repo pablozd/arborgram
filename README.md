@@ -1,5 +1,11 @@
 # Arborgram
 
+[![Arborgram](https://img.shields.io/badge/Arborgram-syntax%20trees-blue)](https://arborgram.pablozd.ar)
+![Web app](https://img.shields.io/badge/web-app-brightgreen)
+![Linguistics](https://img.shields.io/badge/linguistics-syntax%20%7C%20grammar-purple)
+![SVG](https://img.shields.io/badge/exports-SVG%20%7C%20PNG-lightgrey)
+![License](https://img.shields.io/badge/license-MIT%20%7C%20LPPL%20%7C%20CC--BY-blue)
+
 **Arborgram** is a web-based syntax tree visualizer. It takes bracket notation as input and renders syntactic trees as SVG in real time.
 
 Designed for teaching and research in generative syntax, morphology, and phonology. Available in Spanish and English.
