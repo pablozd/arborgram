@@ -12,8 +12,10 @@ Designed for teaching and research in generative syntax, morphology, and phonolo
 
 → **[arborgram.pablozd.ar](https://arborgram.pablozd.ar)**
 
+## Screenshot
+
 <p align="center">
-  <img src="docs/arborgram-captura.png" alt="Captura real de Arborgram" width="980">
+  <img src="docs/arborgram-captura.png" alt="Screenshot of Arborgram" width="980">
 </p>
 
 ## Features
@@ -35,12 +37,22 @@ Designed for teaching and research in generative syntax, morphology, and phonolo
 
 ## Local use
 
-1. Download `arboles.html`.
+1. Download `index.html`.
 2. Open it in any modern browser.
 3. Type or paste a bracketed structure.
 4. Export as SVG or PNG.
 
 No compilation needed.
+
+## Project structure
+
+```txt
+.
+├── index.html
+├── docs/
+│   └── arborgram-captura.png
+└── README.md
+```
 
 ## License
 
