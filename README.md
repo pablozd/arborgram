@@ -12,6 +12,10 @@ Designed for teaching and research in generative syntax, morphology, and phonolo
 
 → **[arborgram.pablozd.ar](https://arborgram.pablozd.ar)**
 
+<p align="center">
+  <img src="docs/arborgram-captura.svg" alt="Captura real de Arborgram" width="980">
+</p>
+
 ## Features
 
 - Single HTML file — no installation or backend required.
