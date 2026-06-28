@@ -15,7 +15,7 @@ Designed for teaching and research in generative syntax, morphology, and phonolo
 ## Screenshot
 
 <p align="center">
-  <img src="docs/arborgram-captura.png" alt="Screenshot of Arborgram" width="980">
+  <img src="doc/arborgrama-screenshot.png" alt="Screenshot of Arborgram" width="980">
 </p>
 
 ## Features
@@ -49,8 +49,8 @@ No compilation needed.
 ```txt
 .
 ├── index.html
-├── docs/
-│   └── arborgram-captura.png
+├── doc/
+│   └── arborgrama-screenshot.png
 └── README.md
 ```
 
