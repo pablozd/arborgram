@@ -12,6 +12,12 @@ Designed for teaching and research in generative syntax, morphology, and phonolo
 
 → **[arborgram.pablozd.ar](https://arborgram.pablozd.ar)**
 
+## Demo
+
+<p align="center">
+  <img src="doc/arborgram-demo.gif" alt="Arborgram demo screencast" width="980">
+</p>
+
 ## Screenshot
 
 <p align="center">
@@ -50,6 +56,7 @@ No compilation needed.
 .
 ├── index.html
 ├── doc/
+│   ├── arborgram-demo.gif
 │   └── arborgram-screenshot.png
 └── README.md
 ```
