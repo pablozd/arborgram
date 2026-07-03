@@ -12,17 +12,19 @@ Designed for teaching and research in generative syntax, morphology, and phonolo
 
 → **[arborgram.pablozd.ar](https://arborgram.pablozd.ar)**
 
-## Demo
-
-<p align="center">
-  <img src="doc/arborgram-demo.gif" alt="Arborgram demo screencast" width="980">
-</p>
-
 ## Screenshot
 
 <p align="center">
   <img src="doc/arborgram-screenshot.png" alt="Screenshot of Arborgram" width="980">
 </p>
+
+
+## Demo
+
+<p align="center">
+  <img src="img/arborgram-demo.gif" alt="Arborgram demo screencast" width="980">
+</p>
+
 
 ## Features
 
